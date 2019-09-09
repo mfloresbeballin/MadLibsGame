@@ -1,4 +1,4 @@
-//Authors: 
+//manuel:
 #include <iostream>
 #include <string>
 
